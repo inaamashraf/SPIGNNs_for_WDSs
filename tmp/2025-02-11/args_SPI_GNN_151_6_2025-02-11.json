@@ -1,0 +1,23 @@
+{
+    "wds": "anytown",
+    "mode": "train_test",
+    "warm_start": false,
+    "model_path": null,
+    "model": "SPI_GNN",
+    "start_scenario": 1000,
+    "end_scenario": 1099,
+    "n_samples": 6,
+    "batch_size": 96,
+    "n_epochs": 151,
+    "lr": 0.0001,
+    "decay_step": 150,
+    "decay_rate": 0.75,
+    "I": 5,
+    "n_iter": 5,
+    "r_iter": 5,
+    "n_mlp": 1,
+    "M_l": 128,
+    "wandb": false,
+    "inp_file": "/home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/wds/anytown/toy/s1099/anytown.inp",
+    "path_to_data": "/home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/wds/anytown/toy/s1099/results/Measurements_All.xlsx"
+}

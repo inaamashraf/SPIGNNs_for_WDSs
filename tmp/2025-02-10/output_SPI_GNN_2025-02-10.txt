@@ -1,0 +1,211 @@
+
+WDS:  anytown
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00164587
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.002044
+MAE - (F, F_hat):  0.014533
+MAE - (H, H_tilde):  0.003205
+MAE - (D, D_tilde):  0.048698
+MAE - (F, F_tilde):  0.01348
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.00808086
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.011394
+MAE - (F, F_hat):  0.028461
+MAE - (H, H_tilde):  0.014482
+MAE - (D, D_tilde):  0.124307
+MAE - (F, F_tilde):  0.047523
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00164144
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.001876
+MAE - (F, F_hat):  0.01414
+MAE - (H, H_tilde):  0.002965
+MAE - (D, D_tilde):  0.048657
+MAE - (F, F_tilde):  0.014138
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.00778587
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.01108
+MAE - (F, F_hat):  0.028687
+MAE - (H, H_tilde):  0.01378
+MAE - (D, D_tilde):  0.122089
+MAE - (F, F_tilde):  0.046079
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00166611
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.001703
+MAE - (F, F_hat):  0.014414
+MAE - (H, H_tilde):  0.003083
+MAE - (D, D_tilde):  0.051862
+MAE - (F, F_tilde):  0.015391
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.00794301
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.011286
+MAE - (F, F_hat):  0.028791
+MAE - (H, H_tilde):  0.014181
+MAE - (D, D_tilde):  0.130185
+MAE - (F, F_tilde):  0.047096
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00180737
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.001587
+MAE - (F, F_hat):  0.014391
+MAE - (H, H_tilde):  0.003246
+MAE - (D, D_tilde):  0.059141
+MAE - (F, F_tilde):  0.01643
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.00824114
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.011314
+MAE - (F, F_hat):  0.028472
+MAE - (H, H_tilde):  0.015014
+MAE - (D, D_tilde):  0.124507
+MAE - (F, F_tilde):  0.047644
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00147431
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.001645
+MAE - (F, F_hat):  0.013908
+MAE - (H, H_tilde):  0.003271
+MAE - (D, D_tilde):  0.04482
+MAE - (F, F_tilde):  0.013295
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.00859653
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.012773
+MAE - (F, F_hat):  0.02887
+MAE - (H, H_tilde):  0.015333
+MAE - (D, D_tilde):  0.126946
+MAE - (F, F_tilde):  0.0491
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00145653
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.001671
+MAE - (F, F_hat):  0.014129
+MAE - (H, H_tilde):  0.00294
+MAE - (D, D_tilde):  0.043607
+MAE - (F, F_tilde):  0.013055
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.0085239
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.01236
+MAE - (F, F_hat):  0.028893
+MAE - (H, H_tilde):  0.015548
+MAE - (D, D_tilde):  0.123434
+MAE - (F, F_tilde):  0.048876
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00165476
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.001697
+MAE - (F, F_hat):  0.014627
+MAE - (H, H_tilde):  0.003054
+MAE - (D, D_tilde):  0.050739
+MAE - (F, F_tilde):  0.014186
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.00860259
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.01219
+MAE - (F, F_hat):  0.02962
+MAE - (H, H_tilde):  0.01516
+MAE - (D, D_tilde):  0.126625
+MAE - (F, F_tilde):  0.049837
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00153664
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.00169
+MAE - (F, F_hat):  0.014353
+MAE - (H, H_tilde):  0.002924
+MAE - (D, D_tilde):  0.046928
+MAE - (F, F_tilde):  0.013884
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.00771674
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.011227
+MAE - (F, F_hat):  0.02817
+MAE - (H, H_tilde):  0.014472
+MAE - (D, D_tilde):  0.12652
+MAE - (F, F_tilde):  0.046154
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00155275
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.001675
+MAE - (F, F_hat):  0.014442
+MAE - (H, H_tilde):  0.003146
+MAE - (D, D_tilde):  0.047952
+MAE - (F, F_tilde):  0.014479
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.0081605
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.011475
+MAE - (F, F_hat):  0.028727
+MAE - (H, H_tilde):  0.014774
+MAE - (D, D_tilde):  0.126501
+MAE - (F, F_tilde):  0.047807
+Dia_Std:  0.01
+Demand_Std:  0.1
+No: of samples:  1000
+Test loss:  0.00167763
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.001751
+MAE - (F, F_hat):  0.014856
+MAE - (H, H_tilde):  0.003128
+MAE - (D, D_tilde):  0.052002
+MAE - (F, F_tilde):  0.015591
+Dia_Std:  0.01
+Demand_Std:  1.0
+No: of samples:  1000
+Test loss:  0.00822112
+Model:  tmp/2025-02-10/model_SPI_GNN_151_5_anytown.pt
+MAE - (D, D_hat):  0.011851
+MAE - (F, F_hat):  0.028875
+MAE - (H, H_tilde):  0.014372
+MAE - (D, D_tilde):  0.128702
+MAE - (F, F_tilde):  0.047386
+                    0         1
+sigma        0.010000  0.100000
+h_mae        0.003096  0.014712
+d_hat_mae    0.001734  0.011695
+q_hat_mae    0.014379  0.028757
+d_tilde_mae  0.049441  0.125982
+q_tilde_mae  0.014393  0.047750
+wntr_times   2.094247  4.022171
+model_times  1.240601  1.275703

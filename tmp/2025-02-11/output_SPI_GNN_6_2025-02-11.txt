@@ -1,0 +1,670 @@
+WDS:  anytown
+
+Dia of the WDS:  5 
+
+Start, End Scenario:  1000 1099
+WDS:  anytown
+
+Dia of the WDS:  5 
+
+Start, End Scenario:  1000 1099
+Epoch  0 : Train loss:  0.08511949  Val loss:  0.0843413
+Val losses (last batch) - (d, d_hat):  0.0518173 , (d, d_tilde):  0.23795213 , (q, q_tilde):  0.08728788
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  1 : Train loss:  0.08415647  Val loss:  0.08271488
+Val losses (last batch) - (d, d_hat):  0.05010702 , (d, d_tilde):  0.23748951 , (q, q_tilde):  0.08858905
+Epoch  2 : Train loss:  0.08321664  Val loss:  0.09618019
+Val losses (last batch) - (d, d_hat):  0.0633846 , (d, d_tilde):  0.23694628 , (q, q_tilde):  0.09100966
+Epoch  3 : Train loss:  0.08431201  Val loss:  0.09243582
+Val losses (last batch) - (d, d_hat):  0.05949938 , (d, d_tilde):  0.23701686 , (q, q_tilde):  0.09234759
+Epoch  4 : Train loss:  0.08204512  Val loss:  0.08592068
+Val losses (last batch) - (d, d_hat):  0.05316678 , (d, d_tilde):  0.23649867 , (q, q_tilde):  0.09104022
+Epoch  5 : Train loss:  0.08178382  Val loss:  0.08411163
+Val losses (last batch) - (d, d_hat):  0.0514534 , (d, d_tilde):  0.23513979 , (q, q_tilde):  0.09144253
+Epoch  6 : Train loss:  0.07973341  Val loss:  0.07702757
+Val losses (last batch) - (d, d_hat):  0.04411343 , (d, d_tilde):  0.23465058 , (q, q_tilde):  0.09449087
+Epoch  7 : Train loss:  0.07844121  Val loss:  0.07956716
+Val losses (last batch) - (d, d_hat):  0.04706335 , (d, d_tilde):  0.23174483 , (q, q_tilde):  0.09329331
+Epoch  8 : Train loss:  0.07816807  Val loss:  0.08241837
+Val losses (last batch) - (d, d_hat):  0.05011696 , (d, d_tilde):  0.22815494 , (q, q_tilde):  0.09485915
+Epoch  9 : Train loss:  0.07193225  Val loss:  0.07353646
+Val losses (last batch) - (d, d_hat):  0.03955754 , (d, d_tilde):  0.22952777 , (q, q_tilde):  0.11026147
+Epoch  10 : Train loss:  0.07337474  Val loss:  0.06960018
+Val losses (last batch) - (d, d_hat):  0.03624648 , (d, d_tilde):  0.22453003 , (q, q_tilde):  0.10900703
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  11 : Train loss:  0.06397006  Val loss:  0.060513
+Val losses (last batch) - (d, d_hat):  0.02968722 , (d, d_tilde):  0.21101384 , (q, q_tilde):  0.09724392
+Epoch  12 : Train loss:  0.06081719  Val loss:  0.06031592
+Val losses (last batch) - (d, d_hat):  0.02910109 , (d, d_tilde):  0.20654683 , (q, q_tilde):  0.10560153
+Epoch  13 : Train loss:  0.05620122  Val loss:  0.05519823
+Val losses (last batch) - (d, d_hat):  0.02720138 , (d, d_tilde):  0.18622342 , (q, q_tilde):  0.09374507
+Epoch  14 : Train loss:  0.05973385  Val loss:  0.06653872
+Val losses (last batch) - (d, d_hat):  0.03850385 , (d, d_tilde):  0.18581681 , (q, q_tilde):  0.09453198
+Epoch  15 : Train loss:  0.05834931  Val loss:  0.06009095
+Val losses (last batch) - (d, d_hat):  0.03439466 , (d, d_tilde):  0.16143572 , (q, q_tilde):  0.0955272
+Epoch  16 : Train loss:  0.05628608  Val loss:  0.05405983
+Val losses (last batch) - (d, d_hat):  0.03572781 , (d, d_tilde):  0.11638831 , (q, q_tilde):  0.06693176
+Epoch  17 : Train loss:  0.05203449  Val loss:  0.04834481
+Val losses (last batch) - (d, d_hat):  0.03136038 , (d, d_tilde):  0.10455126 , (q, q_tilde):  0.06529298
+Epoch  18 : Train loss:  0.04773181  Val loss:  0.03875577
+Val losses (last batch) - (d, d_hat):  0.02648981 , (d, d_tilde):  0.0774217 , (q, q_tilde):  0.04523794
+Epoch  19 : Train loss:  0.03945919  Val loss:  0.04030498
+Val losses (last batch) - (d, d_hat):  0.03305527 , (d, d_tilde):  0.04660177 , (q, q_tilde):  0.02589537
+Epoch  20 : Train loss:  0.0402304  Val loss:  0.04810614
+Val losses (last batch) - (d, d_hat):  0.03938241 , (d, d_tilde):  0.05792334 , (q, q_tilde):  0.02931391
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  21 : Train loss:  0.03371908  Val loss:  0.07189196
+Val losses (last batch) - (d, d_hat):  0.06100324 , (d, d_tilde):  0.06892557 , (q, q_tilde):  0.03996157
+Epoch  22 : Train loss:  0.04104093  Val loss:  0.05082884
+Val losses (last batch) - (d, d_hat):  0.0401409 , (d, d_tilde):  0.07196578 , (q, q_tilde):  0.03491366
+Epoch  23 : Train loss:  0.03300714  Val loss:  0.04423092
+Val losses (last batch) - (d, d_hat):  0.03428932 , (d, d_tilde):  0.07001912 , (q, q_tilde):  0.02939691
+Epoch  24 : Train loss:  0.02633581  Val loss:  0.04765194
+Val losses (last batch) - (d, d_hat):  0.03729038 , (d, d_tilde):  0.0702374 , (q, q_tilde):  0.0333782
+Epoch  25 : Train loss:  0.02741786  Val loss:  0.04207437
+Val losses (last batch) - (d, d_hat):  0.03172687 , (d, d_tilde):  0.07186104 , (q, q_tilde):  0.03161395
+Epoch  26 : Train loss:  0.02884662  Val loss:  0.04568149
+Val losses (last batch) - (d, d_hat):  0.03592668 , (d, d_tilde):  0.06603397 , (q, q_tilde):  0.03151412
+Epoch  27 : Train loss:  0.03157561  Val loss:  0.0368893
+Val losses (last batch) - (d, d_hat):  0.02753797 , (d, d_tilde):  0.06475462 , (q, q_tilde):  0.02875868
+Epoch  28 : Train loss:  0.03341951  Val loss:  0.03012015
+Val losses (last batch) - (d, d_hat):  0.02137382 , (d, d_tilde):  0.06246329 , (q, q_tilde):  0.02500001
+Epoch  29 : Train loss:  0.0268304  Val loss:  0.03786983
+Val losses (last batch) - (d, d_hat):  0.02925326 , (d, d_tilde):  0.05862865 , (q, q_tilde):  0.02753705
+Epoch  30 : Train loss:  0.02365657  Val loss:  0.03134967
+Val losses (last batch) - (d, d_hat):  0.02244604 , (d, d_tilde):  0.0631001 , (q, q_tilde):  0.02593627
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  31 : Train loss:  0.0361388  Val loss:  0.05424827
+Val losses (last batch) - (d, d_hat):  0.04396649 , (d, d_tilde):  0.06693161 , (q, q_tilde):  0.03588613
+Epoch  32 : Train loss:  0.03379081  Val loss:  0.03928632
+Val losses (last batch) - (d, d_hat):  0.02883992 , (d, d_tilde):  0.07336623 , (q, q_tilde):  0.03109775
+Epoch  33 : Train loss:  0.0328034  Val loss:  0.03146009
+Val losses (last batch) - (d, d_hat):  0.02231027 , (d, d_tilde):  0.0649149 , (q, q_tilde):  0.0265833
+Epoch  34 : Train loss:  0.02875883  Val loss:  0.03493081
+Val losses (last batch) - (d, d_hat):  0.02641028 , (d, d_tilde):  0.05836052 , (q, q_tilde):  0.02684482
+Epoch  35 : Train loss:  0.02195018  Val loss:  0.02640653
+Val losses (last batch) - (d, d_hat):  0.01864683 , (d, d_tilde):  0.05550579 , (q, q_tilde):  0.02209132
+Epoch  36 : Train loss:  0.01768593  Val loss:  0.02385451
+Val losses (last batch) - (d, d_hat):  0.0168039 , (d, d_tilde):  0.04971922 , (q, q_tilde):  0.02078685
+Epoch  37 : Train loss:  0.03177245  Val loss:  0.04372727
+Val losses (last batch) - (d, d_hat):  0.03452702 , (d, d_tilde):  0.06215897 , (q, q_tilde):  0.0298435
+Epoch  38 : Train loss:  0.0280693  Val loss:  0.05965324
+Val losses (last batch) - (d, d_hat):  0.049053 , (d, d_tilde):  0.0679765 , (q, q_tilde):  0.03802596
+Epoch  39 : Train loss:  0.02764892  Val loss:  0.04966643
+Val losses (last batch) - (d, d_hat):  0.0382792 , (d, d_tilde):  0.07858679 , (q, q_tilde):  0.03528554
+Epoch  40 : Train loss:  0.03128292  Val loss:  0.03728498
+Val losses (last batch) - (d, d_hat):  0.02697771 , (d, d_tilde):  0.07439406 , (q, q_tilde):  0.02867859
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  41 : Train loss:  0.028495  Val loss:  0.03099149
+Val losses (last batch) - (d, d_hat):  0.02322262 , (d, d_tilde):  0.05413433 , (q, q_tilde):  0.02355442
+Epoch  42 : Train loss:  0.02326395  Val loss:  0.03097456
+Val losses (last batch) - (d, d_hat):  0.02344147 , (d, d_tilde):  0.05226998 , (q, q_tilde):  0.02306089
+Epoch  43 : Train loss:  0.02151948  Val loss:  0.02355271
+Val losses (last batch) - (d, d_hat):  0.01635647 , (d, d_tilde):  0.05176261 , (q, q_tilde):  0.02019981
+Epoch  44 : Train loss:  0.02812285  Val loss:  0.03866686
+Val losses (last batch) - (d, d_hat):  0.02854729 , (d, d_tilde):  0.07103571 , (q, q_tilde):  0.03016005
+Epoch  45 : Train loss:  0.02401056  Val loss:  0.0330075
+Val losses (last batch) - (d, d_hat):  0.02306476 , (d, d_tilde):  0.07221093 , (q, q_tilde):  0.02721645
+Epoch  46 : Train loss:  0.02360542  Val loss:  0.03785328
+Val losses (last batch) - (d, d_hat):  0.02759937 , (d, d_tilde):  0.07286923 , (q, q_tilde):  0.02966987
+Epoch  47 : Train loss:  0.0159598  Val loss:  0.02807416
+Val losses (last batch) - (d, d_hat):  0.01957768 , (d, d_tilde):  0.06090628 , (q, q_tilde):  0.02405854
+Epoch  48 : Train loss:  0.01919222  Val loss:  0.01711725
+Val losses (last batch) - (d, d_hat):  0.01117248 , (d, d_tilde):  0.04391471 , (q, q_tilde):  0.01553304
+Epoch  49 : Train loss:  0.02482572  Val loss:  0.02085303
+Val losses (last batch) - (d, d_hat):  0.01413692 , (d, d_tilde):  0.04820346 , (q, q_tilde):  0.0189576
+Epoch  50 : Train loss:  0.01669308  Val loss:  0.02871931
+Val losses (last batch) - (d, d_hat):  0.02031402 , (d, d_tilde):  0.05977387 , (q, q_tilde):  0.02427908
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  51 : Train loss:  0.0169318  Val loss:  0.02604864
+Val losses (last batch) - (d, d_hat):  0.01816365 , (d, d_tilde):  0.05759571 , (q, q_tilde):  0.02125415
+Epoch  52 : Train loss:  0.01857858  Val loss:  0.02970637
+Val losses (last batch) - (d, d_hat):  0.02045306 , (d, d_tilde):  0.06640142 , (q, q_tilde):  0.02613168
+Epoch  53 : Train loss:  0.01579035  Val loss:  0.02072905
+Val losses (last batch) - (d, d_hat):  0.01393456 , (d, d_tilde):  0.04984911 , (q, q_tilde):  0.01809578
+Epoch  54 : Train loss:  0.01998909  Val loss:  0.0193057
+Val losses (last batch) - (d, d_hat):  0.01251544 , (d, d_tilde):  0.04933456 , (q, q_tilde):  0.01856808
+Epoch  55 : Train loss:  0.0287726  Val loss:  0.03485576
+Val losses (last batch) - (d, d_hat):  0.02423018 , (d, d_tilde):  0.07597531 , (q, q_tilde):  0.03028047
+Epoch  56 : Train loss:  0.01667003  Val loss:  0.02508835
+Val losses (last batch) - (d, d_hat):  0.01819493 , (d, d_tilde):  0.04983796 , (q, q_tilde):  0.01909622
+Epoch  57 : Train loss:  0.01525227  Val loss:  0.01504221
+Val losses (last batch) - (d, d_hat):  0.0098398 , (d, d_tilde):  0.03730274 , (q, q_tilde):  0.01472144
+Epoch  58 : Train loss:  0.01863863  Val loss:  0.01613992
+Val losses (last batch) - (d, d_hat):  0.00993208 , (d, d_tilde):  0.04510503 , (q, q_tilde):  0.01697342
+Epoch  59 : Train loss:  0.01739751  Val loss:  0.02007308
+Val losses (last batch) - (d, d_hat):  0.01336057 , (d, d_tilde):  0.04850756 , (q, q_tilde):  0.01861756
+Epoch  60 : Train loss:  0.01613415  Val loss:  0.02085163
+Val losses (last batch) - (d, d_hat):  0.01398493 , (d, d_tilde):  0.05019488 , (q, q_tilde):  0.0184721
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  61 : Train loss:  0.00992187  Val loss:  0.01736394
+Val losses (last batch) - (d, d_hat):  0.01141123 , (d, d_tilde):  0.04324529 , (q, q_tilde):  0.01628182
+Epoch  62 : Train loss:  0.01729603  Val loss:  0.0131724
+Val losses (last batch) - (d, d_hat):  0.00833183 , (d, d_tilde):  0.03541092 , (q, q_tilde):  0.01299481
+Epoch  63 : Train loss:  0.00986655  Val loss:  0.01715352
+Val losses (last batch) - (d, d_hat):  0.01198201 , (d, d_tilde):  0.03704694 , (q, q_tilde):  0.01466815
+Epoch  64 : Train loss:  0.01103188  Val loss:  0.01527736
+Val losses (last batch) - (d, d_hat):  0.01022407 , (d, d_tilde):  0.03828507 , (q, q_tilde):  0.01224785
+Epoch  65 : Train loss:  0.01539455  Val loss:  0.01043146
+Val losses (last batch) - (d, d_hat):  0.0060702 , (d, d_tilde):  0.03262243 , (q, q_tilde):  0.01099009
+Epoch  66 : Train loss:  0.01387899  Val loss:  0.01735234
+Val losses (last batch) - (d, d_hat):  0.01252709 , (d, d_tilde):  0.03344209 , (q, q_tilde):  0.01481046
+Epoch  67 : Train loss:  0.012056  Val loss:  0.01141345
+Val losses (last batch) - (d, d_hat):  0.00741764 , (d, d_tilde):  0.03007095 , (q, q_tilde):  0.00988721
+Epoch  68 : Train loss:  0.01271171  Val loss:  0.01223289
+Val losses (last batch) - (d, d_hat):  0.00764437 , (d, d_tilde):  0.03413335 , (q, q_tilde):  0.01175192
+Epoch  69 : Train loss:  0.01048106  Val loss:  0.0165274
+Val losses (last batch) - (d, d_hat):  0.01127293 , (d, d_tilde):  0.03715543 , (q, q_tilde):  0.01538932
+Epoch  70 : Train loss:  0.01188656  Val loss:  0.01932923
+Val losses (last batch) - (d, d_hat):  0.01511995 , (d, d_tilde):  0.03011004 , (q, q_tilde):  0.01198275
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  71 : Train loss:  0.01214609  Val loss:  0.01430097
+Val losses (last batch) - (d, d_hat):  0.00961477 , (d, d_tilde):  0.03342094 , (q, q_tilde):  0.01344102
+Epoch  72 : Train loss:  0.0085244  Val loss:  0.00852734
+Val losses (last batch) - (d, d_hat):  0.00464179 , (d, d_tilde):  0.02766942 , (q, q_tilde):  0.01118604
+Epoch  73 : Train loss:  0.01548588  Val loss:  0.016126
+Val losses (last batch) - (d, d_hat):  0.01180996 , (d, d_tilde):  0.02976787 , (q, q_tilde):  0.01339244
+Epoch  74 : Train loss:  0.01237205  Val loss:  0.01805158
+Val losses (last batch) - (d, d_hat):  0.01309731 , (d, d_tilde):  0.0358222 , (q, q_tilde):  0.01372054
+Epoch  75 : Train loss:  0.0128969  Val loss:  0.01215829
+Val losses (last batch) - (d, d_hat):  0.00833538 , (d, d_tilde):  0.02913498 , (q, q_tilde):  0.00909415
+Epoch  76 : Train loss:  0.00766245  Val loss:  0.01542449
+Val losses (last batch) - (d, d_hat):  0.01055874 , (d, d_tilde):  0.03451061 , (q, q_tilde):  0.01414689
+Epoch  77 : Train loss:  0.01162542  Val loss:  0.01620982
+Val losses (last batch) - (d, d_hat):  0.0108413 , (d, d_tilde):  0.03880826 , (q, q_tilde):  0.01487694
+Epoch  78 : Train loss:  0.00928637  Val loss:  0.01904197
+Val losses (last batch) - (d, d_hat):  0.01301398 , (d, d_tilde):  0.04464084 , (q, q_tilde):  0.01563909
+Epoch  79 : Train loss:  0.01175651  Val loss:  0.01635879
+Val losses (last batch) - (d, d_hat):  0.00976215 , (d, d_tilde):  0.04181234 , (q, q_tilde):  0.02415403
+Epoch  80 : Train loss:  0.01343856  Val loss:  0.01336134
+Val losses (last batch) - (d, d_hat):  0.00784329 , (d, d_tilde):  0.04020444 , (q, q_tilde):  0.01497607
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  81 : Train loss:  0.01068796  Val loss:  0.00900475
+Val losses (last batch) - (d, d_hat):  0.00539187 , (d, d_tilde):  0.02635236 , (q, q_tilde):  0.00977647
+Epoch  82 : Train loss:  0.00928246  Val loss:  0.01173032
+Val losses (last batch) - (d, d_hat):  0.00752459 , (d, d_tilde):  0.03060604 , (q, q_tilde):  0.01145129
+Epoch  83 : Train loss:  0.00957641  Val loss:  0.01188148
+Val losses (last batch) - (d, d_hat):  0.00774697 , (d, d_tilde):  0.03009246 , (q, q_tilde):  0.01125254
+Epoch  84 : Train loss:  0.00894712  Val loss:  0.012754
+Val losses (last batch) - (d, d_hat):  0.00913491 , (d, d_tilde):  0.02747613 , (q, q_tilde):  0.00871469
+Epoch  85 : Train loss:  0.00843516  Val loss:  0.01490606
+Val losses (last batch) - (d, d_hat):  0.00839142 , (d, d_tilde):  0.0481438 , (q, q_tilde):  0.01700257
+Epoch  86 : Train loss:  0.00982083  Val loss:  0.01175152
+Val losses (last batch) - (d, d_hat):  0.00719994 , (d, d_tilde):  0.03294713 , (q, q_tilde):  0.0125687
+Epoch  87 : Train loss:  0.00857195  Val loss:  0.01229502
+Val losses (last batch) - (d, d_hat):  0.00805907 , (d, d_tilde):  0.03116956 , (q, q_tilde):  0.01118993
+Epoch  88 : Train loss:  0.00878228  Val loss:  0.00901841
+Val losses (last batch) - (d, d_hat):  0.00476033 , (d, d_tilde):  0.03070432 , (q, q_tilde):  0.0118765
+Epoch  89 : Train loss:  0.0071905  Val loss:  0.01219986
+Val losses (last batch) - (d, d_hat):  0.00826204 , (d, d_tilde):  0.02956241 , (q, q_tilde):  0.00981577
+Epoch  90 : Train loss:  0.00864822  Val loss:  0.01361768
+Val losses (last batch) - (d, d_hat):  0.0094638 , (d, d_tilde):  0.03162364 , (q, q_tilde):  0.00991517
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  91 : Train loss:  0.00715131  Val loss:  0.00940462
+Val losses (last batch) - (d, d_hat):  0.00475388 , (d, d_tilde):  0.03195561 , (q, q_tilde):  0.01455176
+Epoch  92 : Train loss:  0.00607444  Val loss:  0.00793904
+Val losses (last batch) - (d, d_hat):  0.0039616 , (d, d_tilde):  0.02917631 , (q, q_tilde):  0.0105981
+Epoch  93 : Train loss:  0.0053354  Val loss:  0.00674929
+Val losses (last batch) - (d, d_hat):  0.00354814 , (d, d_tilde):  0.02366187 , (q, q_tilde):  0.00834965
+Epoch  94 : Train loss:  0.00506329  Val loss:  0.00515707
+Val losses (last batch) - (d, d_hat):  0.00211464 , (d, d_tilde):  0.0220952 , (q, q_tilde):  0.00832904
+Epoch  95 : Train loss:  0.00699625  Val loss:  0.01037371
+Val losses (last batch) - (d, d_hat):  0.00671828 , (d, d_tilde):  0.02673965 , (q, q_tilde):  0.00981462
+Epoch  96 : Train loss:  0.00712286  Val loss:  0.00964775
+Val losses (last batch) - (d, d_hat):  0.00617134 , (d, d_tilde):  0.02555257 , (q, q_tilde):  0.00921157
+Epoch  97 : Train loss:  0.00630829  Val loss:  0.00890428
+Val losses (last batch) - (d, d_hat):  0.00382244 , (d, d_tilde):  0.03244723 , (q, q_tilde):  0.01837111
+Epoch  98 : Train loss:  0.00548058  Val loss:  0.00753655
+Val losses (last batch) - (d, d_hat):  0.00395077 , (d, d_tilde):  0.02569403 , (q, q_tilde):  0.01016387
+Epoch  99 : Train loss:  0.00718983  Val loss:  0.00773502
+Val losses (last batch) - (d, d_hat):  0.00428992 , (d, d_tilde):  0.02467602 , (q, q_tilde):  0.00977504
+Epoch  100 : Train loss:  0.00640328  Val loss:  0.00782689
+Val losses (last batch) - (d, d_hat):  0.00374785 , (d, d_tilde):  0.02798918 , (q, q_tilde):  0.01280118
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  101 : Train loss:  0.00666407  Val loss:  0.00959114
+Val losses (last batch) - (d, d_hat):  0.00606574 , (d, d_tilde):  0.02587019 , (q, q_tilde):  0.00938377
+Epoch  102 : Train loss:  0.00744106  Val loss:  0.00772545
+Val losses (last batch) - (d, d_hat):  0.0031826 , (d, d_tilde):  0.03123568 , (q, q_tilde):  0.01419286
+Epoch  103 : Train loss:  0.00562751  Val loss:  0.00664797
+Val losses (last batch) - (d, d_hat):  0.00323271 , (d, d_tilde):  0.02465286 , (q, q_tilde):  0.00949977
+Epoch  104 : Train loss:  0.00712727  Val loss:  0.00901528
+Val losses (last batch) - (d, d_hat):  0.00536263 , (d, d_tilde):  0.02651186 , (q, q_tilde):  0.01001466
+Epoch  105 : Train loss:  0.00721919  Val loss:  0.00883819
+Val losses (last batch) - (d, d_hat):  0.00413022 , (d, d_tilde):  0.03011529 , (q, q_tilde):  0.01696443
+Epoch  106 : Train loss:  0.00702687  Val loss:  0.00770618
+Val losses (last batch) - (d, d_hat):  0.00395622 , (d, d_tilde):  0.02657948 , (q, q_tilde):  0.0109201
+Epoch  107 : Train loss:  0.00754363  Val loss:  0.01049384
+Val losses (last batch) - (d, d_hat):  0.00449344 , (d, d_tilde):  0.0369 , (q, q_tilde):  0.02310399
+Epoch  108 : Train loss:  0.00757629  Val loss:  0.01140975
+Val losses (last batch) - (d, d_hat):  0.00737695 , (d, d_tilde):  0.02822619 , (q, q_tilde):  0.01210181
+Epoch  109 : Train loss:  0.00745971  Val loss:  0.00821183
+Val losses (last batch) - (d, d_hat):  0.00451388 , (d, d_tilde):  0.02718256 , (q, q_tilde):  0.0097969
+Epoch  110 : Train loss:  0.00653114  Val loss:  0.00732182
+Val losses (last batch) - (d, d_hat):  0.00357365 , (d, d_tilde):  0.02677547 , (q, q_tilde):  0.01070627
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  111 : Train loss:  0.00646439  Val loss:  0.00737334
+Val losses (last batch) - (d, d_hat):  0.00296754 , (d, d_tilde):  0.02875757 , (q, q_tilde):  0.01530044
+Epoch  112 : Train loss:  0.00516032  Val loss:  0.00781679
+Val losses (last batch) - (d, d_hat):  0.00433146 , (d, d_tilde):  0.02469167 , (q, q_tilde):  0.01016158
+Epoch  113 : Train loss:  0.00551335  Val loss:  0.00665738
+Val losses (last batch) - (d, d_hat):  0.00300815 , (d, d_tilde):  0.02549714 , (q, q_tilde):  0.01099515
+Epoch  114 : Train loss:  0.00609845  Val loss:  0.00624548
+Val losses (last batch) - (d, d_hat):  0.00330125 , (d, d_tilde):  0.0211314 , (q, q_tilde):  0.00831089
+Epoch  115 : Train loss:  0.00493229  Val loss:  0.00627473
+Val losses (last batch) - (d, d_hat):  0.00252799 , (d, d_tilde):  0.02606289 , (q, q_tilde):  0.0114045
+Epoch  116 : Train loss:  0.00618948  Val loss:  0.00748884
+Val losses (last batch) - (d, d_hat):  0.00371165 , (d, d_tilde):  0.02713788 , (q, q_tilde):  0.01063398
+Epoch  117 : Train loss:  0.00626838  Val loss:  0.00662381
+Val losses (last batch) - (d, d_hat):  0.00337418 , (d, d_tilde):  0.0231582 , (q, q_tilde):  0.00933812
+Epoch  118 : Train loss:  0.00611597  Val loss:  0.00543418
+Val losses (last batch) - (d, d_hat):  0.00221645 , (d, d_tilde):  0.02309498 , (q, q_tilde):  0.00908224
+Epoch  119 : Train loss:  0.00531031  Val loss:  0.00827479
+Val losses (last batch) - (d, d_hat):  0.0044523 , (d, d_tilde):  0.02721235 , (q, q_tilde):  0.01101254
+Epoch  120 : Train loss:  0.00645894  Val loss:  0.01057601
+Val losses (last batch) - (d, d_hat):  0.00572002 , (d, d_tilde):  0.03141243 , (q, q_tilde):  0.01714747
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  121 : Train loss:  0.00721741  Val loss:  0.00695289
+Val losses (last batch) - (d, d_hat):  0.00306737 , (d, d_tilde):  0.02756039 , (q, q_tilde):  0.01129489
+Epoch  122 : Train loss:  0.00567709  Val loss:  0.00521113
+Val losses (last batch) - (d, d_hat):  0.00238796 , (d, d_tilde):  0.02006486 , (q, q_tilde):  0.00816678
+Epoch  123 : Train loss:  0.00465289  Val loss:  0.00572486
+Val losses (last batch) - (d, d_hat):  0.00276829 , (d, d_tilde):  0.02155696 , (q, q_tilde):  0.00800871
+Epoch  124 : Train loss:  0.00479773  Val loss:  0.00461739
+Val losses (last batch) - (d, d_hat):  0.00171734 , (d, d_tilde):  0.02080102 , (q, q_tilde):  0.0081995
+Epoch  125 : Train loss:  0.00526951  Val loss:  0.00574187
+Val losses (last batch) - (d, d_hat):  0.00253207 , (d, d_tilde):  0.02327485 , (q, q_tilde):  0.00882321
+Epoch  126 : Train loss:  0.00481795  Val loss:  0.0075709
+Val losses (last batch) - (d, d_hat):  0.00339605 , (d, d_tilde):  0.0287759 , (q, q_tilde):  0.01297258
+Epoch  127 : Train loss:  0.00474788  Val loss:  0.00580522
+Val losses (last batch) - (d, d_hat):  0.00187636 , (d, d_tilde):  0.02686411 , (q, q_tilde):  0.01242449
+Epoch  128 : Train loss:  0.00477308  Val loss:  0.00439686
+Val losses (last batch) - (d, d_hat):  0.00144459 , (d, d_tilde):  0.02115775 , (q, q_tilde):  0.00836496
+Epoch  129 : Train loss:  0.00532066  Val loss:  0.00704897
+Val losses (last batch) - (d, d_hat):  0.00392948 , (d, d_tilde):  0.02187255 , (q, q_tilde):  0.0093224
+Epoch  130 : Train loss:  0.00549047  Val loss:  0.00811141
+Val losses (last batch) - (d, d_hat):  0.00507416 , (d, d_tilde):  0.02297456 , (q, q_tilde):  0.00739793
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  131 : Train loss:  0.00628047  Val loss:  0.0063032
+Val losses (last batch) - (d, d_hat):  0.00308836 , (d, d_tilde):  0.02301356 , (q, q_tilde):  0.00913478
+Epoch  132 : Train loss:  0.00682952  Val loss:  0.00809779
+Val losses (last batch) - (d, d_hat):  0.00507421 , (d, d_tilde):  0.02090236 , (q, q_tilde):  0.00933342
+Epoch  133 : Train loss:  0.00629501  Val loss:  0.00515652
+Val losses (last batch) - (d, d_hat):  0.00222505 , (d, d_tilde):  0.02144754 , (q, q_tilde):  0.00786725
+Epoch  134 : Train loss:  0.00422697  Val loss:  0.00628077
+Val losses (last batch) - (d, d_hat):  0.00332049 , (d, d_tilde):  0.02113868 , (q, q_tilde):  0.00846408
+Epoch  135 : Train loss:  0.00422887  Val loss:  0.00381949
+Val losses (last batch) - (d, d_hat):  0.00134327 , (d, d_tilde):  0.01811352 , (q, q_tilde):  0.00664867
+Epoch  136 : Train loss:  0.00474378  Val loss:  0.00396383
+Val losses (last batch) - (d, d_hat):  0.00124736 , (d, d_tilde):  0.02009369 , (q, q_tilde):  0.00707103
+Epoch  137 : Train loss:  0.00477063  Val loss:  0.0063661
+Val losses (last batch) - (d, d_hat):  0.00319575 , (d, d_tilde):  0.02242849 , (q, q_tilde):  0.00927497
+Epoch  138 : Train loss:  0.00531666  Val loss:  0.00489365
+Val losses (last batch) - (d, d_hat):  0.00173413 , (d, d_tilde):  0.02252762 , (q, q_tilde):  0.00906762
+Epoch  139 : Train loss:  0.00432433  Val loss:  0.00410835
+Val losses (last batch) - (d, d_hat):  0.00131138 , (d, d_tilde):  0.0201682 , (q, q_tilde):  0.00780151
+Epoch  140 : Train loss:  0.00413722  Val loss:  0.00431292
+Val losses (last batch) - (d, d_hat):  0.00156794 , (d, d_tilde):  0.01955563 , (q, q_tilde):  0.00789409
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  141 : Train loss:  0.00441464  Val loss:  0.00683179
+Val losses (last batch) - (d, d_hat):  0.00363303 , (d, d_tilde):  0.02311876 , (q, q_tilde):  0.00886887
+Epoch  142 : Train loss:  0.00540848  Val loss:  0.006287
+Val losses (last batch) - (d, d_hat):  0.00215784 , (d, d_tilde):  0.02786462 , (q, q_tilde):  0.01342699
+Epoch  143 : Train loss:  0.00416431  Val loss:  0.00558677
+Val losses (last batch) - (d, d_hat):  0.00263025 , (d, d_tilde):  0.02147073 , (q, q_tilde):  0.00809448
+Epoch  144 : Train loss:  0.00491898  Val loss:  0.00429602
+Val losses (last batch) - (d, d_hat):  0.00177372 , (d, d_tilde):  0.01824113 , (q, q_tilde):  0.00698186
+Epoch  145 : Train loss:  0.00452112  Val loss:  0.00485359
+Val losses (last batch) - (d, d_hat):  0.00218006 , (d, d_tilde):  0.01940854 , (q, q_tilde):  0.00732679
+Epoch  146 : Train loss:  0.00418383  Val loss:  0.00509689
+Val losses (last batch) - (d, d_hat):  0.00253868 , (d, d_tilde):  0.01851031 , (q, q_tilde):  0.00707177
+Epoch  147 : Train loss:  0.00464348  Val loss:  0.00632454
+Val losses (last batch) - (d, d_hat):  0.00175381 , (d, d_tilde):  0.02931539 , (q, q_tilde):  0.01639197
+Epoch  148 : Train loss:  0.00427348  Val loss:  0.00453856
+Val losses (last batch) - (d, d_hat):  0.00190846 , (d, d_tilde):  0.0187833 , (q, q_tilde):  0.00751773
+Epoch  149 : Train loss:  0.00410245  Val loss:  0.00337329
+Val losses (last batch) - (d, d_hat):  0.00087923 , (d, d_tilde):  0.01831939 , (q, q_tilde):  0.00662126
+Epoch  150 : Train loss:  0.00341029  Val loss:  0.00304949
+Val losses (last batch) - (d, d_hat):  0.00072517 , (d, d_tilde):  0.01696621 , (q, q_tilde):  0.00627708
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+WDS:  anytown
+
+Dia of the WDS:  5 
+
+Start, End Scenario:  1000 1099
+Test loss:  0.00306674
+Model:  /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+MAE - (H, H_tilde):  0.00533
+MAE - (D, D_hat):  0.003668
+MAE - (F, F_hat):  0.028302
+MAE - (D, D_tilde):  0.092969
+MAE - (F, F_tilde):  0.02563
+WDS:  anytown
+
+Dia of the WDS:  5 
+
+Start, End Scenario:  1000 1099
+Epoch  0 : Train loss:  0.08487306  Val loss:  0.08365777
+Val losses (last batch) - (d, d_hat):  0.05095112 , (d, d_tilde):  0.23812786 , (q, q_tilde):  0.08893868
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  1 : Train loss:  0.08373865  Val loss:  0.08911559
+Val losses (last batch) - (d, d_hat):  0.0563039 , (d, d_tilde):  0.23735762 , (q, q_tilde):  0.09075929
+Epoch  2 : Train loss:  0.08538757  Val loss:  0.09413621
+Val losses (last batch) - (d, d_hat):  0.06127236 , (d, d_tilde):  0.23605087 , (q, q_tilde):  0.09258758
+Epoch  3 : Train loss:  0.08451607  Val loss:  0.08273114
+Val losses (last batch) - (d, d_hat):  0.04945514 , (d, d_tilde):  0.23736176 , (q, q_tilde):  0.09539814
+Epoch  4 : Train loss:  0.08180523  Val loss:  0.07884149
+Val losses (last batch) - (d, d_hat):  0.04610024 , (d, d_tilde):  0.23585148 , (q, q_tilde):  0.09156106
+Epoch  5 : Train loss:  0.0798547  Val loss:  0.08556387
+Val losses (last batch) - (d, d_hat):  0.05303673 , (d, d_tilde):  0.23331805 , (q, q_tilde):  0.09195328
+Epoch  6 : Train loss:  0.07801365  Val loss:  0.07536474
+Val losses (last batch) - (d, d_hat):  0.04263049 , (d, d_tilde):  0.23264924 , (q, q_tilde):  0.09469322
+Epoch  7 : Train loss:  0.07288849  Val loss:  0.06786223
+Val losses (last batch) - (d, d_hat):  0.03521755 , (d, d_tilde):  0.22923341 , (q, q_tilde):  0.09721344
+Epoch  8 : Train loss:  0.07386425  Val loss:  0.07221481
+Val losses (last batch) - (d, d_hat):  0.0403483 , (d, d_tilde):  0.22365668 , (q, q_tilde):  0.0950085
+Epoch  9 : Train loss:  0.06830023  Val loss:  0.0607633
+Val losses (last batch) - (d, d_hat):  0.0282743 , (d, d_tilde):  0.21929175 , (q, q_tilde):  0.1055983
+Epoch  10 : Train loss:  0.0614205  Val loss:  0.06076542
+Val losses (last batch) - (d, d_hat):  0.02909883 , (d, d_tilde):  0.20961894 , (q, q_tilde):  0.10704695
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  11 : Train loss:  0.05584033  Val loss:  0.05666978
+Val losses (last batch) - (d, d_hat):  0.02845001 , (d, d_tilde):  0.18220419 , (q, q_tilde):  0.09999351
+Epoch  12 : Train loss:  0.0530094  Val loss:  0.05501988
+Val losses (last batch) - (d, d_hat):  0.02651 , (d, d_tilde):  0.18189837 , (q, q_tilde):  0.10320039
+Epoch  13 : Train loss:  0.05103757  Val loss:  0.04759754
+Val losses (last batch) - (d, d_hat):  0.02097205 , (d, d_tilde):  0.17011835 , (q, q_tilde):  0.09613657
+Epoch  14 : Train loss:  0.05016373  Val loss:  0.04946029
+Val losses (last batch) - (d, d_hat):  0.02624068 , (d, d_tilde):  0.14926775 , (q, q_tilde):  0.08292837
+Epoch  15 : Train loss:  0.04618733  Val loss:  0.04266157
+Val losses (last batch) - (d, d_hat):  0.02295117 , (d, d_tilde):  0.11916645 , (q, q_tilde):  0.07793749
+Epoch  16 : Train loss:  0.04673168  Val loss:  0.03860747
+Val losses (last batch) - (d, d_hat):  0.03075742 , (d, d_tilde):  0.05021302 , (q, q_tilde):  0.02828745
+Epoch  17 : Train loss:  0.04215604  Val loss:  0.03791041
+Val losses (last batch) - (d, d_hat):  0.03071508 , (d, d_tilde):  0.04456466 , (q, q_tilde):  0.02738868
+Epoch  18 : Train loss:  0.03858435  Val loss:  0.05231754
+Val losses (last batch) - (d, d_hat):  0.04295329 , (d, d_tilde):  0.06272683 , (q, q_tilde):  0.03091559
+Epoch  19 : Train loss:  0.03912318  Val loss:  0.03892315
+Val losses (last batch) - (d, d_hat):  0.03019362 , (d, d_tilde):  0.05688237 , (q, q_tilde):  0.030413
+Epoch  20 : Train loss:  0.03644296  Val loss:  0.03855578
+Val losses (last batch) - (d, d_hat):  0.02971052 , (d, d_tilde):  0.05851224 , (q, q_tilde):  0.02994036
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  21 : Train loss:  0.03502714  Val loss:  0.04327738
+Val losses (last batch) - (d, d_hat):  0.03419498 , (d, d_tilde):  0.06066829 , (q, q_tilde):  0.0301556
+Epoch  22 : Train loss:  0.03270151  Val loss:  0.04451034
+Val losses (last batch) - (d, d_hat):  0.03525712 , (d, d_tilde):  0.0605512 , (q, q_tilde):  0.03198096
+Epoch  23 : Train loss:  0.0295183  Val loss:  0.04246905
+Val losses (last batch) - (d, d_hat):  0.03170339 , (d, d_tilde):  0.07684793 , (q, q_tilde):  0.03080872
+Epoch  24 : Train loss:  0.03639654  Val loss:  0.07531244
+Val losses (last batch) - (d, d_hat):  0.06331067 , (d, d_tilde):  0.0747328 , (q, q_tilde):  0.04528478
+Epoch  25 : Train loss:  0.04917904  Val loss:  0.05426027
+Val losses (last batch) - (d, d_hat):  0.04268324 , (d, d_tilde):  0.07776229 , (q, q_tilde):  0.03800797
+Epoch  26 : Train loss:  0.03583185  Val loss:  0.0405042
+Val losses (last batch) - (d, d_hat):  0.03021515 , (d, d_tilde):  0.07260554 , (q, q_tilde):  0.03028502
+Epoch  27 : Train loss:  0.03430981  Val loss:  0.0384064
+Val losses (last batch) - (d, d_hat):  0.02823667 , (d, d_tilde):  0.07100177 , (q, q_tilde):  0.03069551
+Epoch  28 : Train loss:  0.02582065  Val loss:  0.02758418
+Val losses (last batch) - (d, d_hat):  0.0195634 , (d, d_tilde):  0.05660269 , (q, q_tilde):  0.02360511
+Epoch  29 : Train loss:  0.02989838  Val loss:  0.02430647
+Val losses (last batch) - (d, d_hat):  0.01736034 , (d, d_tilde):  0.04935897 , (q, q_tilde):  0.02010238
+Epoch  30 : Train loss:  0.02881189  Val loss:  0.02794599
+Val losses (last batch) - (d, d_hat):  0.02083436 , (d, d_tilde):  0.04798051 , (q, q_tilde):  0.02313578
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  31 : Train loss:  0.02459519  Val loss:  0.03441342
+Val losses (last batch) - (d, d_hat):  0.02500562 , (d, d_tilde):  0.06557481 , (q, q_tilde):  0.02850321
+Epoch  32 : Train loss:  0.02194408  Val loss:  0.03273508
+Val losses (last batch) - (d, d_hat):  0.02315367 , (d, d_tilde):  0.06813906 , (q, q_tilde):  0.027675
+Epoch  33 : Train loss:  0.02232535  Val loss:  0.02225094
+Val losses (last batch) - (d, d_hat):  0.01524692 , (d, d_tilde):  0.04885108 , (q, q_tilde):  0.02118911
+Epoch  34 : Train loss:  0.02303647  Val loss:  0.0320568
+Val losses (last batch) - (d, d_hat):  0.0246866 , (d, d_tilde):  0.05034802 , (q, q_tilde):  0.02335396
+Epoch  35 : Train loss:  0.0249143  Val loss:  0.02067739
+Val losses (last batch) - (d, d_hat):  0.01443916 , (d, d_tilde):  0.0434402 , (q, q_tilde):  0.01894203
+Epoch  36 : Train loss:  0.0183107  Val loss:  0.01564751
+Val losses (last batch) - (d, d_hat):  0.01078176 , (d, d_tilde):  0.03525333 , (q, q_tilde):  0.01340421
+Epoch  37 : Train loss:  0.01920267  Val loss:  0.01746329
+Val losses (last batch) - (d, d_hat):  0.01141443 , (d, d_tilde):  0.04326164 , (q, q_tilde):  0.0172269
+Epoch  38 : Train loss:  0.02094816  Val loss:  0.02196781
+Val losses (last batch) - (d, d_hat):  0.01527358 , (d, d_tilde):  0.04636449 , (q, q_tilde):  0.02057776
+Epoch  39 : Train loss:  0.02627797  Val loss:  0.02502227
+Val losses (last batch) - (d, d_hat):  0.01788069 , (d, d_tilde):  0.0500983 , (q, q_tilde):  0.02131747
+Epoch  40 : Train loss:  0.01985653  Val loss:  0.02913722
+Val losses (last batch) - (d, d_hat):  0.01999679 , (d, d_tilde):  0.06598836 , (q, q_tilde):  0.02541596
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  41 : Train loss:  0.02029276  Val loss:  0.04846107
+Val losses (last batch) - (d, d_hat):  0.03600899 , (d, d_tilde):  0.08775452 , (q, q_tilde):  0.0367663
+Epoch  42 : Train loss:  0.02807989  Val loss:  0.03705147
+Val losses (last batch) - (d, d_hat):  0.02612466 , (d, d_tilde):  0.07918336 , (q, q_tilde):  0.03008469
+Epoch  43 : Train loss:  0.0207691  Val loss:  0.02182562
+Val losses (last batch) - (d, d_hat):  0.01551279 , (d, d_tilde):  0.04548652 , (q, q_tilde):  0.01764172
+Epoch  44 : Train loss:  0.0207576  Val loss:  0.01862195
+Val losses (last batch) - (d, d_hat):  0.01277948 , (d, d_tilde):  0.04111866 , (q, q_tilde):  0.01730603
+Epoch  45 : Train loss:  0.02446161  Val loss:  0.02064206
+Val losses (last batch) - (d, d_hat):  0.01413933 , (d, d_tilde):  0.04599666 , (q, q_tilde):  0.01903062
+Epoch  46 : Train loss:  0.01774789  Val loss:  0.01678531
+Val losses (last batch) - (d, d_hat):  0.01090194 , (d, d_tilde):  0.04261314 , (q, q_tilde):  0.01622061
+Epoch  47 : Train loss:  0.01651216  Val loss:  0.02079298
+Val losses (last batch) - (d, d_hat):  0.01436068 , (d, d_tilde):  0.04605258 , (q, q_tilde):  0.01827047
+Epoch  48 : Train loss:  0.0126188  Val loss:  0.02503352
+Val losses (last batch) - (d, d_hat):  0.0169865 , (d, d_tilde):  0.05729452 , (q, q_tilde):  0.0231757
+Epoch  49 : Train loss:  0.01337937  Val loss:  0.01820377
+Val losses (last batch) - (d, d_hat):  0.01234565 , (d, d_tilde):  0.04169387 , (q, q_tilde):  0.01688731
+Epoch  50 : Train loss:  0.01968101  Val loss:  0.01356284
+Val losses (last batch) - (d, d_hat):  0.00868845 , (d, d_tilde):  0.03628138 , (q, q_tilde):  0.0124625
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  51 : Train loss:  0.02111734  Val loss:  0.01565491
+Val losses (last batch) - (d, d_hat):  0.01001649 , (d, d_tilde):  0.04096772 , (q, q_tilde):  0.01541648
+Epoch  52 : Train loss:  0.02161797  Val loss:  0.01674538
+Val losses (last batch) - (d, d_hat):  0.01040941 , (d, d_tilde):  0.04594086 , (q, q_tilde):  0.01741884
+Epoch  53 : Train loss:  0.02102888  Val loss:  0.02197657
+Val losses (last batch) - (d, d_hat):  0.01464419 , (d, d_tilde):  0.05244572 , (q, q_tilde):  0.02087813
+Epoch  54 : Train loss:  0.01713737  Val loss:  0.015582
+Val losses (last batch) - (d, d_hat):  0.0104765 , (d, d_tilde):  0.03755332 , (q, q_tilde):  0.01350172
+Epoch  55 : Train loss:  0.01259171  Val loss:  0.01526857
+Val losses (last batch) - (d, d_hat):  0.01050864 , (d, d_tilde):  0.03503393 , (q, q_tilde):  0.01256539
+Epoch  56 : Train loss:  0.01000086  Val loss:  0.01035506
+Val losses (last batch) - (d, d_hat):  0.00594127 , (d, d_tilde):  0.03229477 , (q, q_tilde):  0.01184317
+Epoch  57 : Train loss:  0.01459018  Val loss:  0.01839988
+Val losses (last batch) - (d, d_hat):  0.01215641 , (d, d_tilde):  0.04492879 , (q, q_tilde):  0.017506
+Epoch  58 : Train loss:  0.01174704  Val loss:  0.01675255
+Val losses (last batch) - (d, d_hat):  0.0117809 , (d, d_tilde):  0.03681663 , (q, q_tilde):  0.01289992
+Epoch  59 : Train loss:  0.01094744  Val loss:  0.01417053
+Val losses (last batch) - (d, d_hat):  0.00995136 , (d, d_tilde):  0.03160647 , (q, q_tilde):  0.01058518
+Epoch  60 : Train loss:  0.00834151  Val loss:  0.01552453
+Val losses (last batch) - (d, d_hat):  0.01020186 , (d, d_tilde):  0.03846384 , (q, q_tilde):  0.01476282
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  61 : Train loss:  0.01306491  Val loss:  0.01661474
+Val losses (last batch) - (d, d_hat):  0.01093246 , (d, d_tilde):  0.04069314 , (q, q_tilde):  0.01612957
+Epoch  62 : Train loss:  0.00867705  Val loss:  0.0129398
+Val losses (last batch) - (d, d_hat):  0.00878226 , (d, d_tilde):  0.03025018 , (q, q_tilde):  0.01132525
+Epoch  63 : Train loss:  0.00892457  Val loss:  0.01258953
+Val losses (last batch) - (d, d_hat):  0.00843856 , (d, d_tilde):  0.03036001 , (q, q_tilde):  0.01114969
+Epoch  64 : Train loss:  0.00869654  Val loss:  0.00831833
+Val losses (last batch) - (d, d_hat):  0.00387856 , (d, d_tilde):  0.03081734 , (q, q_tilde):  0.01358037
+Epoch  65 : Train loss:  0.0135244  Val loss:  0.00676516
+Val losses (last batch) - (d, d_hat):  0.0033685 , (d, d_tilde):  0.02506651 , (q, q_tilde):  0.0089001
+Epoch  66 : Train loss:  0.02475539  Val loss:  0.01235372
+Val losses (last batch) - (d, d_hat):  0.00784697 , (d, d_tilde):  0.0327327 , (q, q_tilde):  0.0123348
+Epoch  67 : Train loss:  0.01246352  Val loss:  0.01482694
+Val losses (last batch) - (d, d_hat):  0.01008599 , (d, d_tilde):  0.03509378 , (q, q_tilde):  0.01231582
+Epoch  68 : Train loss:  0.0096935  Val loss:  0.01217604
+Val losses (last batch) - (d, d_hat):  0.00849443 , (d, d_tilde):  0.0276263 , (q, q_tilde):  0.00918983
+Epoch  69 : Train loss:  0.01298894  Val loss:  0.0136326
+Val losses (last batch) - (d, d_hat):  0.00945732 , (d, d_tilde):  0.03110486 , (q, q_tilde):  0.0106479
+Epoch  70 : Train loss:  0.00896363  Val loss:  0.01513181
+Val losses (last batch) - (d, d_hat):  0.00987941 , (d, d_tilde):  0.03832386 , (q, q_tilde):  0.01420011
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  71 : Train loss:  0.00949278  Val loss:  0.01184167
+Val losses (last batch) - (d, d_hat):  0.00617304 , (d, d_tilde):  0.03748013 , (q, q_tilde):  0.01920615
+Epoch  72 : Train loss:  0.01167705  Val loss:  0.01219185
+Val losses (last batch) - (d, d_hat):  0.00649339 , (d, d_tilde):  0.03625046 , (q, q_tilde):  0.0207341
+Epoch  73 : Train loss:  0.00967048  Val loss:  0.01329604
+Val losses (last batch) - (d, d_hat):  0.00835824 , (d, d_tilde):  0.03618504 , (q, q_tilde):  0.01319303
+Epoch  74 : Train loss:  0.00941321  Val loss:  0.01069235
+Val losses (last batch) - (d, d_hat):  0.00676563 , (d, d_tilde):  0.02875975 , (q, q_tilde):  0.01050748
+Epoch  75 : Train loss:  0.0090764  Val loss:  0.01100421
+Val losses (last batch) - (d, d_hat):  0.00599495 , (d, d_tilde):  0.03227115 , (q, q_tilde):  0.01782152
+Epoch  76 : Train loss:  0.00854052  Val loss:  0.01065689
+Val losses (last batch) - (d, d_hat):  0.00610544 , (d, d_tilde):  0.03276964 , (q, q_tilde):  0.01274481
+Epoch  77 : Train loss:  0.0078533  Val loss:  0.00891264
+Val losses (last batch) - (d, d_hat):  0.00508321 , (d, d_tilde):  0.02642335 , (q, q_tilde):  0.01187091
+Epoch  78 : Train loss:  0.00681608  Val loss:  0.00846699
+Val losses (last batch) - (d, d_hat):  0.00497534 , (d, d_tilde):  0.02548761 , (q, q_tilde):  0.00942886
+Epoch  79 : Train loss:  0.00724475  Val loss:  0.01326167
+Val losses (last batch) - (d, d_hat):  0.00924073 , (d, d_tilde):  0.03022471 , (q, q_tilde):  0.00998466
+Epoch  80 : Train loss:  0.01099784  Val loss:  0.01156366
+Val losses (last batch) - (d, d_hat):  0.00681192 , (d, d_tilde):  0.03125622 , (q, q_tilde):  0.0162612
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  81 : Train loss:  0.00958771  Val loss:  0.01045093
+Val losses (last batch) - (d, d_hat):  0.00664159 , (d, d_tilde):  0.02734105 , (q, q_tilde):  0.01075238
+Epoch  82 : Train loss:  0.00996572  Val loss:  0.01153946
+Val losses (last batch) - (d, d_hat):  0.00673432 , (d, d_tilde):  0.03443351 , (q, q_tilde):  0.01361782
+Epoch  83 : Train loss:  0.00863779  Val loss:  0.01151021
+Val losses (last batch) - (d, d_hat):  0.00516791 , (d, d_tilde):  0.03779415 , (q, q_tilde):  0.02562883
+Epoch  84 : Train loss:  0.00861444  Val loss:  0.00831784
+Val losses (last batch) - (d, d_hat):  0.00488191 , (d, d_tilde):  0.02495514 , (q, q_tilde):  0.00940421
+Epoch  85 : Train loss:  0.00814699  Val loss:  0.00799045
+Val losses (last batch) - (d, d_hat):  0.00358647 , (d, d_tilde):  0.03013824 , (q, q_tilde):  0.01390153
+Epoch  86 : Train loss:  0.00729988  Val loss:  0.00731326
+Val losses (last batch) - (d, d_hat):  0.00334941 , (d, d_tilde):  0.02787267 , (q, q_tilde):  0.01176578
+Epoch  87 : Train loss:  0.00662822  Val loss:  0.00967507
+Val losses (last batch) - (d, d_hat):  0.0062333 , (d, d_tilde):  0.0251441 , (q, q_tilde):  0.00927356
+Epoch  88 : Train loss:  0.00914709  Val loss:  0.01061982
+Val losses (last batch) - (d, d_hat):  0.00652285 , (d, d_tilde):  0.03003865 , (q, q_tilde):  0.0109311
+Epoch  89 : Train loss:  0.0074018  Val loss:  0.00845396
+Val losses (last batch) - (d, d_hat):  0.00436794 , (d, d_tilde):  0.02738288 , (q, q_tilde):  0.01347732
+Epoch  90 : Train loss:  0.00640349  Val loss:  0.00854991
+Val losses (last batch) - (d, d_hat):  0.00492143 , (d, d_tilde):  0.0262242 , (q, q_tilde):  0.01006057
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  91 : Train loss:  0.00714565  Val loss:  0.00830517
+Val losses (last batch) - (d, d_hat):  0.0045299 , (d, d_tilde):  0.02692701 , (q, q_tilde):  0.01082568
+Epoch  92 : Train loss:  0.00731778  Val loss:  0.00912285
+Val losses (last batch) - (d, d_hat):  0.00540536 , (d, d_tilde):  0.02666093 , (q, q_tilde):  0.01051392
+Epoch  93 : Train loss:  0.00597397  Val loss:  0.01158795
+Val losses (last batch) - (d, d_hat):  0.00751052 , (d, d_tilde):  0.02990917 , (q, q_tilde):  0.01086515
+Epoch  94 : Train loss:  0.0077672  Val loss:  0.01111931
+Val losses (last batch) - (d, d_hat):  0.00677038 , (d, d_tilde):  0.03154222 , (q, q_tilde):  0.01194702
+Epoch  95 : Train loss:  0.00758041  Val loss:  0.01085591
+Val losses (last batch) - (d, d_hat):  0.00626816 , (d, d_tilde):  0.03214589 , (q, q_tilde):  0.01373156
+Epoch  96 : Train loss:  0.00779594  Val loss:  0.0071811
+Val losses (last batch) - (d, d_hat):  0.00334551 , (d, d_tilde):  0.0271541 , (q, q_tilde):  0.01120181
+Epoch  97 : Train loss:  0.00559989  Val loss:  0.00761141
+Val losses (last batch) - (d, d_hat):  0.0044506 , (d, d_tilde):  0.02301038 , (q, q_tilde):  0.00859771
+Epoch  98 : Train loss:  0.00624641  Val loss:  0.00614111
+Val losses (last batch) - (d, d_hat):  0.00290629 , (d, d_tilde):  0.02364264 , (q, q_tilde):  0.00870552
+Epoch  99 : Train loss:  0.00638005  Val loss:  0.00583205
+Val losses (last batch) - (d, d_hat):  0.00272025 , (d, d_tilde):  0.02250644 , (q, q_tilde):  0.00861151
+Epoch  100 : Train loss:  0.00601205  Val loss:  0.00805672
+Val losses (last batch) - (d, d_hat):  0.00466612 , (d, d_tilde):  0.02465826 , (q, q_tilde):  0.00924778
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  101 : Train loss:  0.00667849  Val loss:  0.00809496
+Val losses (last batch) - (d, d_hat):  0.00468798 , (d, d_tilde):  0.02444078 , (q, q_tilde):  0.00962907
+Epoch  102 : Train loss:  0.00551219  Val loss:  0.00689322
+Val losses (last batch) - (d, d_hat):  0.00272587 , (d, d_tilde):  0.02751648 , (q, q_tilde):  0.01415695
+Epoch  103 : Train loss:  0.00604567  Val loss:  0.0074895
+Val losses (last batch) - (d, d_hat):  0.00386866 , (d, d_tilde):  0.02585485 , (q, q_tilde):  0.01035361
+Epoch  104 : Train loss:  0.00551959  Val loss:  0.00591723
+Val losses (last batch) - (d, d_hat):  0.00234184 , (d, d_tilde):  0.02484223 , (q, q_tilde):  0.01091171
+Epoch  105 : Train loss:  0.00606265  Val loss:  0.0062391
+Val losses (last batch) - (d, d_hat):  0.00280135 , (d, d_tilde):  0.02454367 , (q, q_tilde):  0.00983381
+Epoch  106 : Train loss:  0.00488944  Val loss:  0.00529552
+Val losses (last batch) - (d, d_hat):  0.0020162 , (d, d_tilde):  0.0233681 , (q, q_tilde):  0.00942509
+Epoch  107 : Train loss:  0.00422671  Val loss:  0.00399197
+Val losses (last batch) - (d, d_hat):  0.0010492 , (d, d_tilde):  0.02118083 , (q, q_tilde):  0.00824693
+Epoch  108 : Train loss:  0.00603279  Val loss:  0.00601935
+Val losses (last batch) - (d, d_hat):  0.00292777 , (d, d_tilde):  0.02206771 , (q, q_tilde):  0.00884806
+Epoch  109 : Train loss:  0.00671929  Val loss:  0.00919082
+Val losses (last batch) - (d, d_hat):  0.00560391 , (d, d_tilde):  0.02611372 , (q, q_tilde):  0.00975541
+Epoch  110 : Train loss:  0.00647049  Val loss:  0.00738355
+Val losses (last batch) - (d, d_hat):  0.00385584 , (d, d_tilde):  0.02594028 , (q, q_tilde):  0.00933679
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  111 : Train loss:  0.00534404  Val loss:  0.0054351
+Val losses (last batch) - (d, d_hat):  0.00228431 , (d, d_tilde):  0.02222837 , (q, q_tilde):  0.0092795
+Epoch  112 : Train loss:  0.00536015  Val loss:  0.00486585
+Val losses (last batch) - (d, d_hat):  0.00200157 , (d, d_tilde):  0.02093858 , (q, q_tilde):  0.00770428
+Epoch  113 : Train loss:  0.00506409  Val loss:  0.00485497
+Val losses (last batch) - (d, d_hat):  0.00208025 , (d, d_tilde):  0.02008567 , (q, q_tilde):  0.00766152
+Epoch  114 : Train loss:  0.00490347  Val loss:  0.00551896
+Val losses (last batch) - (d, d_hat):  0.00251036 , (d, d_tilde):  0.02140081 , (q, q_tilde):  0.00868514
+Epoch  115 : Train loss:  0.0047116  Val loss:  0.00398771
+Val losses (last batch) - (d, d_hat):  0.00108626 , (d, d_tilde):  0.02025631 , (q, q_tilde):  0.00875812
+Epoch  116 : Train loss:  0.00487638  Val loss:  0.00686693
+Val losses (last batch) - (d, d_hat):  0.00348256 , (d, d_tilde):  0.0240143 , (q, q_tilde):  0.00982942
+Epoch  117 : Train loss:  0.00485358  Val loss:  0.00556063
+Val losses (last batch) - (d, d_hat):  0.00274951 , (d, d_tilde):  0.0204408 , (q, q_tilde):  0.0076704
+Epoch  118 : Train loss:  0.00464158  Val loss:  0.0047997
+Val losses (last batch) - (d, d_hat):  0.00187782 , (d, d_tilde):  0.02102227 , (q, q_tilde):  0.00819654
+Epoch  119 : Train loss:  0.00402898  Val loss:  0.00390141
+Val losses (last batch) - (d, d_hat):  0.00110285 , (d, d_tilde):  0.02034661 , (q, q_tilde):  0.00763902
+Epoch  120 : Train loss:  0.00452704  Val loss:  0.00474728
+Val losses (last batch) - (d, d_hat):  0.0018962 , (d, d_tilde):  0.02082949 , (q, q_tilde):  0.00768129
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  121 : Train loss:  0.00438322  Val loss:  0.00729632
+Val losses (last batch) - (d, d_hat):  0.00419183 , (d, d_tilde):  0.02245477 , (q, q_tilde):  0.00859015
+Epoch  122 : Train loss:  0.00574399  Val loss:  0.00557174
+Val losses (last batch) - (d, d_hat):  0.0022664 , (d, d_tilde):  0.02268617 , (q, q_tilde):  0.01036725
+Epoch  123 : Train loss:  0.00482888  Val loss:  0.00549068
+Val losses (last batch) - (d, d_hat):  0.00232944 , (d, d_tilde):  0.02255651 , (q, q_tilde):  0.00905587
+Epoch  124 : Train loss:  0.00513563  Val loss:  0.00677988
+Val losses (last batch) - (d, d_hat):  0.00403855 , (d, d_tilde):  0.01933901 , (q, q_tilde):  0.00807428
+Epoch  125 : Train loss:  0.00495753  Val loss:  0.00459098
+Val losses (last batch) - (d, d_hat):  0.00186492 , (d, d_tilde):  0.01964378 , (q, q_tilde):  0.00761683
+Epoch  126 : Train loss:  0.00441557  Val loss:  0.0044559
+Val losses (last batch) - (d, d_hat):  0.00151737 , (d, d_tilde):  0.02118179 , (q, q_tilde):  0.00820347
+Epoch  127 : Train loss:  0.00416872  Val loss:  0.0056797
+Val losses (last batch) - (d, d_hat):  0.00293892 , (d, d_tilde):  0.0194402 , (q, q_tilde):  0.0079676
+Epoch  128 : Train loss:  0.00435161  Val loss:  0.00434109
+Val losses (last batch) - (d, d_hat):  0.00183915 , (d, d_tilde):  0.01855243 , (q, q_tilde):  0.00646696
+Epoch  129 : Train loss:  0.00402857  Val loss:  0.0052293
+Val losses (last batch) - (d, d_hat):  0.00244322 , (d, d_tilde):  0.02002794 , (q, q_tilde):  0.00783287
+Epoch  130 : Train loss:  0.00492069  Val loss:  0.00618768
+Val losses (last batch) - (d, d_hat):  0.00317099 , (d, d_tilde):  0.02177108 , (q, q_tilde):  0.00839577
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  131 : Train loss:  0.00487192  Val loss:  0.00522369
+Val losses (last batch) - (d, d_hat):  0.00195537 , (d, d_tilde):  0.02259491 , (q, q_tilde):  0.01008829
+Epoch  132 : Train loss:  0.00474729  Val loss:  0.00461568
+Val losses (last batch) - (d, d_hat):  0.00192858 , (d, d_tilde):  0.01933214 , (q, q_tilde):  0.00753882
+Epoch  133 : Train loss:  0.00415798  Val loss:  0.00411352
+Val losses (last batch) - (d, d_hat):  0.00177485 , (d, d_tilde):  0.01669498 , (q, q_tilde):  0.00669171
+Epoch  134 : Train loss:  0.00385215  Val loss:  0.0037697
+Val losses (last batch) - (d, d_hat):  0.00146057 , (d, d_tilde):  0.01680841 , (q, q_tilde):  0.00628288
+Epoch  135 : Train loss:  0.00446879  Val loss:  0.00495238
+Val losses (last batch) - (d, d_hat):  0.00250035 , (d, d_tilde):  0.01799203 , (q, q_tilde):  0.00652827
+Epoch  136 : Train loss:  0.00433702  Val loss:  0.0042231
+Val losses (last batch) - (d, d_hat):  0.00160241 , (d, d_tilde):  0.01874312 , (q, q_tilde):  0.00746387
+Epoch  137 : Train loss:  0.00357798  Val loss:  0.0040103
+Val losses (last batch) - (d, d_hat):  0.00148385 , (d, d_tilde):  0.01795574 , (q, q_tilde):  0.0073088
+Epoch  138 : Train loss:  0.0039163  Val loss:  0.00372922
+Val losses (last batch) - (d, d_hat):  0.00102662 , (d, d_tilde):  0.01969596 , (q, q_tilde):  0.00733007
+Epoch  139 : Train loss:  0.00327389  Val loss:  0.00303119
+Val losses (last batch) - (d, d_hat):  0.00080547 , (d, d_tilde):  0.01611253 , (q, q_tilde):  0.00614473
+Epoch  140 : Train loss:  0.00366841  Val loss:  0.00372087
+Val losses (last batch) - (d, d_hat):  0.00128853 , (d, d_tilde):  0.01732476 , (q, q_tilde):  0.00699858
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Epoch  141 : Train loss:  0.00331029  Val loss:  0.00540605
+Val losses (last batch) - (d, d_hat):  0.00287076 , (d, d_tilde):  0.01848648 , (q, q_tilde):  0.0068664
+Epoch  142 : Train loss:  0.00408536  Val loss:  0.00431827
+Val losses (last batch) - (d, d_hat):  0.00173975 , (d, d_tilde):  0.01855921 , (q, q_tilde):  0.00722604
+Epoch  143 : Train loss:  0.00345943  Val loss:  0.00454147
+Val losses (last batch) - (d, d_hat):  0.00193723 , (d, d_tilde):  0.01864727 , (q, q_tilde):  0.00739519
+Epoch  144 : Train loss:  0.00363417  Val loss:  0.00485422
+Val losses (last batch) - (d, d_hat):  0.00242957 , (d, d_tilde):  0.01742586 , (q, q_tilde):  0.0068206
+Epoch  145 : Train loss:  0.00379085  Val loss:  0.00476856
+Val losses (last batch) - (d, d_hat):  0.00225354 , (d, d_tilde):  0.01836112 , (q, q_tilde):  0.00678902
+Epoch  146 : Train loss:  0.00363042  Val loss:  0.00329487
+Val losses (last batch) - (d, d_hat):  0.00085966 , (d, d_tilde):  0.01709183 , (q, q_tilde):  0.00726024
+Epoch  147 : Train loss:  0.00312353  Val loss:  0.0035795
+Val losses (last batch) - (d, d_hat):  0.00119924 , (d, d_tilde):  0.01708463 , (q, q_tilde):  0.00671796
+Epoch  148 : Train loss:  0.00346849  Val loss:  0.0037504
+Val losses (last batch) - (d, d_hat):  0.00110854 , (d, d_tilde):  0.01919818 , (q, q_tilde):  0.00722038
+Epoch  149 : Train loss:  0.00348858  Val loss:  0.00418693
+Val losses (last batch) - (d, d_hat):  0.00186148 , (d, d_tilde):  0.01684947 , (q, q_tilde):  0.006405
+Epoch  150 : Train loss:  0.00346635  Val loss:  0.00370455
+Val losses (last batch) - (d, d_hat):  0.00150275 , (d, d_tilde):  0.0158161 , (q, q_tilde):  0.00620192
+model path: /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+Test loss:  0.00372676
+Model:  /home/mashraf/Documents/Research_Papers/IJCNN_2025/code/SPIGNNs_for_WDSs/tmp/2025-02-11/model_SPI_GNN_151_5_anytown.pt
+MAE - (H, H_tilde):  0.00468
+MAE - (D, D_hat):  0.007254
+MAE - (F, F_hat):  0.025443
+MAE - (D, D_tilde):  0.086442
+MAE - (F, F_tilde):  0.023473

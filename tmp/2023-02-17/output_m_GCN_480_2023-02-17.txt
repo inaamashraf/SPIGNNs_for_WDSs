@@ -1,0 +1,18 @@
+Epoch  0 : Train loss:  0.34718949  Val loss:  0.27473471
+model path: /homes/mashraf/GCNs_for_WDS/tmp/2023-02-17/model_m_GCN_15_1_2023-02-17.pt
+Epoch  10 : Train loss:  0.12933204  Val loss:  0.11781721
+Epoch  20 : Train loss:  0.0565296  Val loss:  0.07766466
+Epoch  30 : Train loss:  0.03350258  Val loss:  0.02742291
+Epoch  40 : Train loss:  0.02898061  Val loss:  0.02709288
+Epoch  50 : Train loss:  0.01267367  Val loss:  0.01536454
+Epoch  60 : Train loss:  0.01633052  Val loss:  0.0103793
+Epoch  70 : Train loss:  0.01608708  Val loss:  0.02368515
+Epoch  80 : Train loss:  0.01061021  Val loss:  0.01303155
+Epoch  90 : Train loss:  0.01602572  Val loss:  0.01783538
+Epoch  100 : Train loss:  0.0223812  Val loss:  0.01455123
+Epoch  110 : Train loss:  0.00960904  Val loss:  0.01006049
+Epoch  120 : Train loss:  0.01295964  Val loss:  0.00922188
+Epoch  130 : Train loss:  0.00920261  Val loss:  0.00862422
+Epoch  140 : Train loss:  0.00896205  Val loss:  0.01298335
+Epoch  150 : Train loss:  0.00843264  Val loss:  0.01029729
+Epoch  160 : Train loss:  0.00988784  Val loss:  0.00969643
