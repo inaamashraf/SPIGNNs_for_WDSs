@@ -2,7 +2,7 @@
 
 # Scalable and Robust Physics-Informed Graph Neural Networks for Water Distribution Systems.
 
-Official Code for the paper "Scalable and Robust Physics-Informed Graph Neural Networks for Water Distribution Systems" (under submission, preprint available at arXiv: ). \
+Official Code for the paper "Scalable and Robust Physics-Informed Graph Neural Networks for Water Distribution Systems" (under submission, preprint available at arXiv: https://arxiv.org/abs/2502.12164). \
 All system and package requirements are listed in the document 'environment.yml'. A corresponding conda environment can be setup via `conda env create -f environment.yml`.
 
 ## Simulating scenarios to generate data
